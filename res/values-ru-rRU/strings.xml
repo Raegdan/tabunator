@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="copied_to_cb">Скопировано в буфер обмена. Вставьте в браузер.</string>
+    <string name="dont_show">Больше не показывать</string>
+    <string name="nothing_to_share">Нечем поделиться :(</string>
+    <string name="proceed_to_tabun">Перейти на Табун</string>
+    <string name="tabunator_greeting">Tabunator - программа, позволяющая постить на Табун (tabun.everypony.ru) при помощи стандартного действия Поделиться. Текст, переданный в Tabunator, скопируется в буфер обмена и его необходимо вставить в нужное поле в браузере.</string>
+
+</resources>
