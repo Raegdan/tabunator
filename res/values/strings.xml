@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tabunator</string>
+    <string name="tabunator_greeting">Tabunator is a program allowing to share via standard Android sharing directly into tabun.everypony.ru. All texc sent to</string>
+
+</resources>
